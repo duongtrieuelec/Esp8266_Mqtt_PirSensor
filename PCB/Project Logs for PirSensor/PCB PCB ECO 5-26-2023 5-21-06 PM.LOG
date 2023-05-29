@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C4 Old Footprint=CAP0603 New Footprint=C3MM
+Change Component Comment : Designator=C4 Old Comment=10uF New Comment=Cap Pol 3mm
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAP0603"; UniqueID = "\DRKQKQOR" ("\DRKQKQOR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"

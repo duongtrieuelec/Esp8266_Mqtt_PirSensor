@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=D8 Old Footprint=SMC New Footprint=D1A
+Change Component Comment : Designator=D8 Old Comment=Diode New Comment=1N4007
+Change component parameters: Designator = "D8" ("D8"); Footprint = "SMC"; UniqueID = "\GLAWYPML" ("\GLAWYPML")
+Change component parameters (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"

@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetC9_2 Pin=ESP8266?-8
+Removed Pin From Net: NetName=GND Pin=ESP8266?-9
+Removed Pin From Net: NetName=NetC7_1 Pin=ESP8266?-10
+Removed Pin From Net: NetName=NetD4_2 Pin=ESP8266?-12
+Removed Member From Class: ClassName=Schematic Member=ESP8266?
+Added Component: Designator=U?(ESP12)
+Add component (AddParameter): Name = "IC"; Value = "ESP8266-EX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Ai-thinker"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC9_2 Pin=U?-1
+Added Pin To Net: NetName=NetC9_2 Pin=U?-3
+Added Pin To Net: NetName=NetC9_2 Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=NetD4_2 Pin=U?-12
+Added Pin To Net: NetName=NetC7_1 Pin=U?-14
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R20-1
+Added Pin To Net: NetName=NetQ2_2 Pin=U?-11
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=U?-13
+Added Net: Name=NetR23_1
+Added Member To Class: ClassName=Schematic Member=Component U? ESP 12

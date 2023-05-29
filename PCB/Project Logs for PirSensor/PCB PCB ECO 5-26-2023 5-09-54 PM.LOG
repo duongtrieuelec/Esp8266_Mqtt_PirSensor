@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetC5_2 Pin=IC3-1
+Removed Pin From Net: NetName=NetC5_1 Pin=IC3-2
+Removed Pin From Net: NetName=NetC9_2 Pin=IC3-4
+Removed Pin From Net: NetName=GND Pin=IC3-11
+Removed Member From Class: ClassName=Schematic Member=IC3
+Added Pin To Net: NetName=NetC5_2 Pin=IC4-1
+Added Pin To Net: NetName=NetC5_1 Pin=IC4-2
+Added Pin To Net: NetName=NetC9_2 Pin=IC4-4
+Added Pin To Net: NetName=GND Pin=IC4-11
+Added Pin To Net: NetName=NetIC4_3 Pin=IC4-3
+Added Pin To Net: NetName=NetIC4_3 Pin=R1-2
+Added Pin To Net: NetName=NetIC4_3 Pin=U-2
+Added Net: Name=NetIC4_3

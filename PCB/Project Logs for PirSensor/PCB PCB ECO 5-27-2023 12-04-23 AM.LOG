@@ -1,0 +1,14 @@
+Change Component Comment : Designator=U3 Old Comment=Comment New Comment=LHI778
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SNR3-D8.1XH4.2MM"; UniqueID = "\TFVNRQTN" ("\TFVNRQTN")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "PerkinElmer Optoelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LHI778"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LHI778/PerkinElmer%20Optoelectronics/view-part/550014/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_1 Pin=U3-1
+Added Pin To Net: NetName=NetIC4_3 Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Member To Class: ClassName=Schematic Member=Component U3 LHI778
+Add Class Member: Failed to add class member : Component U DIP-MOTION/POSITION-LHI778(3P-D8.1MM)

@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=NetD4_2 Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Pin From Net: NetName=NetC9_2 Pin=R11-2
+Removed Pin From Net: NetName=NetD4_2 Pin=U2-2
+Removed Pin From Net: NetName=NetR19_1 Pin=U2-4
+Removed Pin From Net: NetName=NetC16_2 Pin=U2-6
+Removed Pin From Net: NetName=NetC16_1 Pin=U2-7
+Removed Pin From Net: NetName=NetC12_2 Pin=U2-8
+Removed Pin From Net: NetName=NetD4_2 Pin=U4-12
+Removed Member From Class: ClassName=Schematic Member=Q1
+Removed Member From Class: ClassName=Schematic Member=R11
+Removed Member From Class: ClassName=Schematic Member=U2
+Added Component: Designator=U?(DIP794W45P254L1969H508Q16)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74123N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC9_2 Pin=IC4-10
+Added Pin To Net: NetName=NetC9_2 Pin=K1-2
+Added Pin To Net: NetName=NetC9_2 Pin=Q2-1
+Added Pin To Net: NetName=NetD8_1 Pin=Q2-2
+Added Pin To Net: NetName=NetC9_2 Pin=R4-2
+Added Pin To Net: NetName=NetC9_2 Pin=R8-2
+Added Pin To Net: NetName=NetC9_2 Pin=R17-2
+Added Pin To Net: NetName=NetC9_2 Pin=R19-2
+Added Pin To Net: NetName=NetD8_1 Pin=R20-1
+Added Pin To Net: NetName=NetC9_2 Pin=R24-2
+Added Pin To Net: NetName=NetD8_1 Pin=U4-11
+Added Pin To Net: NetName=NetD4_2 Pin=U?-2
+Added Pin To Net: NetName=NetC12_2 Pin=U?-3
+Added Pin To Net: NetName=NetR19_1 Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=NetC16_2 Pin=U?-14
+Added Pin To Net: NetName=NetC16_1 Pin=U?-15
+Added Pin To Net: NetName=NetC9_2 Pin=U?-16
+Added Pin To Net: NetName=NetU4_12 Pin=U4-12
+Added Pin To Net: NetName=NetU4_12 Pin=U?-1
+Added Net: Name=NetU4_12
+Added Member To Class: ClassName=Schematic Member=Component U? SN74123N
