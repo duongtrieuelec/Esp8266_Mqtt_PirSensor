@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../PirSensor_Esp8266"
+		},
+		{
+			"name": "esp8266_mqtt",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
